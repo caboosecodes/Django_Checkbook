@@ -1,2 +1,2 @@
 # Django_Checkbook
- This repository holds a simple checkbook app created in Django
+ A checkbook app developed using Django Framework with CRUD functionality ultilizing the MVC design pattern
